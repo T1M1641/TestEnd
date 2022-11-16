@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="name">Тест на 10 вопросов</string>
+    <string name="check_name">Отправить результат</string>
+
+    <string name="question1">1. Когда отменили крепостное право?</string>
+    <string-array name="question1_answers">
+        <item>1896</item>
+        <item>1901</item>
+        <item>1861</item> <!--Правильный ответ-->
+        <item>1862</item>
+    </string-array>
+
+    <string name="question2">2. Год крещения Руси?</string>
+    <string-array name="question2_answers">
+        <item>1016</item>
+        <item>862</item>
+        <item>988</item> <!--Правильный ответ-->
+        <item>998</item>
+    </string-array>
+
+    <string name="question3">3. Кто правил раньше?</string>
+    <string-array name="question3_answers">
+        <item>Елизавета I</item> <!--Правильный ответ-->
+        <item>Билл Гей</item>
+        <item>Мартин Макфлай</item>
+        <item>Том Круз</item>
+    </string-array>
+
+    <string name="question4">4. Когда США сбросили атомную бомбу на Хиросиму?</string>
+    <string-array name="question4_answers">
+        <item>6 августа 1945</item><!--Правильный ответ-->
+        <item>9 августа 1945</item>
+        <item>11 сентября 2001</item>
+        <item>23 февраля 1917</item>
+    </string-array>
+    <string name="question5">5. Год создания атомной бомбы в СССР?</string>
+    <string-array name="question5_answers">
+        <item>1949</item> <!--Правильный ответ-->
+        <item>1945</item>
+        <item>1953</item>
+        <item>1998</item>
+    </string-array>
+    <string name="question6">6. Год распада СССР?</string>
+    <string-array name="question6_answers">
+        <item>1999</item>
+        <item>1990</item>
+        <item>1991</item> <!--Правильный ответ-->
+        <item>1992</item>
+    </string-array>
+    <string name="question7">7. Почему Гитлер застрелился?</string>
+    <string-array name="question7_answers">
+        <item>Случайно</item>
+        <item>Хз</item> <!--Правильный ответ-->
+        <item>На спор</item>
+        <item>Проиграл в Русскую рулетку</item>
+    </string-array>
+    <string name="question8">8. Кто составил "Словарь выпивохи"?</string>
+    <string-array name="question8_answers">
+        <item>Рамиль</item>
+        <item>Бенджамин Франклин</item> <!--Правильный ответ-->
+        <item>Бенджамин Баттон</item>
+        <item>Тимур</item>
+    </string-array>
+    <string name="question9">9. Что произошло 9(22) 1905?</string>
+    <string-array name="question9_answers">
+        <item>Терракт 11 сентября</item>
+        <item>Терракт 5 сентября</item>
+        <item>Кровавое воскресенье</item> <!--Правильный ответ-->
+        <item>Убийство Кеннеди</item>
+    </string-array>
+    <string name="question10">10. По какой причине Билл Гейтс ушел из Майкрософт?</string>
+    <string-array name="question10_answers">
+        <item>Заебался</item>
+        <item>Дохуя деняк и ему похуй</item>
+        <item>Хотел больше свободного времени и помочь детям</item> <!--Правильный ответ-->
+        <item>От него ушла жена к негру</item>
+    </string-array>
+
+</resources>
